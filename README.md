@@ -1,1 +1,1 @@
-Mentane is a Unix-like operating system
+Mentane is a x86_64 UEFI Unix-like Operating System
